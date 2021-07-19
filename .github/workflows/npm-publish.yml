@@ -18,7 +18,7 @@ jobs:
           
         registry-url: 'https://registry.npmjs.org/mongo-ecosystem'
 
-      - run: npm install
+      - run: npm publish
 
       - uses: JS-DevTools/npm-publish@v1
 
