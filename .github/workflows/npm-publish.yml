@@ -15,8 +15,6 @@ jobs:
         with:
 
           node-version: 14
-          
-        registry-url: 'https://registry.npmjs.org/mongo-ecosystem'
 
       - run: npm publish
 
