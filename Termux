@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "mongo-ecosystem"
+git branch -M main
+git remote add origin https://github.com/Benzian10k/mongo-ecosystem.git
+git push -u origin main

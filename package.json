@@ -1,0 +1,19 @@
+{
+  "name": "mongo-ecosystem",
+  "version": "1.0.1",
+  "description": "A mongo-ecosystem easy to make economy system",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benzian10k/mongo-ecosystem.git"
+  },
+  "author": "Benzian10k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benzian10k/mongo-ecosystem/issues"
+  },
+  "homepage": "https://github.com/benzian10k/mongo-ecosystem#readme"
+}
