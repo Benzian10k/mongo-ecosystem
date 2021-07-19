@@ -24,4 +24,4 @@ jobs:
 
         with:
 
-          token: ${{ secrets.NPMTOKEN }}
+          token: ${{ secrets.NPMTOKN }}
